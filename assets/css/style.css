@@ -842,7 +842,8 @@ section {
 
 .services .icon-box .icon i {
   color: #fe5627;
-  font-size: 36px;
+  /* font-size: 36px; */
+  font-size: 200px;
   transition: 0.3s;
 }
 
@@ -853,7 +854,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #fe5627;
+  color: #060508;
   transition: ease-in-out 0.3s;
 }
 
@@ -868,7 +869,7 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color: #fe5627;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
