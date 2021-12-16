@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #444444;
 }
 
@@ -32,6 +32,10 @@ h1 {
   font-weight: 800;
   font-size: 58px;
   line-height: 58px;
+  color: #01355f;;
+}
+
+h2, h3, h4 {
   color: #01355f;;
 }
 
@@ -405,7 +409,7 @@ h1 {
 }
 
 #hero .btn-get-started {
-  font-family: "Jost", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -900,7 +904,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Jost", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -1211,7 +1215,7 @@ section {
   font-size: 48px;
   color: #fe5627;
   font-weight: 400;
-  font-family: "Jost", sans-serif;
+  font-family: "Montserrat", sans-serif;
   margin-bottom: 25px;
 }
 
@@ -1266,7 +1270,7 @@ section {
   transition: none;
   font-size: 16px;
   font-weight: 500;
-  font-family: "Jost", sans-serif;
+  font-family: "Montserrat", sans-serif;
   transition: 0.3s;
   border: 1px solid #fe5627;
 }
@@ -1707,13 +1711,14 @@ section {
   text-transform: uppercase;
   font-weight: 600;
   color: #37517e;
+  margin-bottom: 30px;
 }
 
 #footer .footer-top .footer-contact p {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Jost", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #5e5e5e;
 }
 
@@ -1726,6 +1731,17 @@ section {
 }
 
 #footer .footer-top .footer-links {
+  margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-links h3 {
+  font-size: 28px;
+  margin: 0 0 10px 0;
+  padding: 2px 0 2px 0;
+  line-height: 1;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #37517e;
   margin-bottom: 30px;
 }
 
