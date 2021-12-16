@@ -25,18 +25,14 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
+  color: #01355f;
   /* font-family: "Jost", sans-serif; */
 }
 
 h1 {
   font-weight: 800;
-  font-size: 58px;
+  font-size: 78px;
   line-height: 58px;
-  color: #01355f;;
-}
-
-h2, h3, h4 {
-  color: #01355f;;
 }
 
 /*--------------------------------------------------------------
@@ -529,17 +525,17 @@ section {
   padding-bottom: 30px;
 }
 
-.section-title h2 {
-  font-size: 32px;
+.section-title h1 {
+  font-size: 58px;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #fe5627;
+  color: #37517e;
 }
 
-.section-title h2::before {
+.section-title h1::before {
   content: '';
   position: absolute;
   display: block;
@@ -550,7 +546,7 @@ section {
   left: calc(50% - 60px);
 }
 
-.section-title h2::after {
+.section-title h1::after {
   content: '';
   position: absolute;
   display: block;
@@ -888,7 +884,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/cta-bg2.jpg") fixed center center;
+  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/portfolio/cta-bg2.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
