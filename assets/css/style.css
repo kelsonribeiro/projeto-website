@@ -93,14 +93,14 @@ h1 {
   bottom: 15px;
   z-index: 996;
   background: #fe5627;
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
   border-radius: 50px;
   transition: all 0.4s;
 }
 
 .back-to-top i {
-  font-size: 24px;
+  font-size: 40px;
   color: #fff;
   line-height: 0;
 }
@@ -392,7 +392,7 @@ h1 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 48px;
+  font-size: 54px;
   font-weight: 700;
   line-height: 56px;
   color: #fff;
@@ -526,7 +526,7 @@ section {
 }
 
 .section-title h1 {
-  font-size: 40px;
+  font-size: 45px;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
@@ -656,7 +656,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #fe5627;
+  color: #37517e;
 }
 
 .why-us .content h4 {
@@ -777,7 +777,7 @@ section {
 .skills .content h3 {
   font-weight: 700;
   font-size: 32px;
-  color: #fe5627;
+  color: #37517e;
   font-family: "Poppins", sans-serif;
 }
 
@@ -793,7 +793,7 @@ section {
 .skills .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #fe5627;
+  color: #01355f;
 }
 
 .skills .content p:last-child {
@@ -808,13 +808,14 @@ section {
 }
 
 .skills .progress .skill {
+  font-size: 16px;
   padding: 0;
   margin: 0 0 6px 0;
   text-transform: uppercase;
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #fe5627;
+  color: #01355f;
 }
 
 .skills .progress .skill .val {
@@ -862,7 +863,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #060508;
+  color: #37517e;
   transition: ease-in-out 0.3s;
 }
 
@@ -1700,7 +1701,7 @@ section {
 }
 
 #footer .footer-top .footer-contact h3 {
-  font-size: 28px;
+  font-size: 22px;
   margin: 0 0 10px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
@@ -1731,7 +1732,7 @@ section {
 }
 
 #footer .footer-top .footer-links h3 {
-  font-size: 28px;
+  font-size: 22px;
   margin: 0 0 10px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
